@@ -1,0 +1,61 @@
+.button-background{
+  -fx-background-color: #fac364;
+}
+/*-----------------------------------------*/
+.text-field-backgound{
+  -fx-background-color: #accbec;
+}
+.split-menu-button-background{
+  -fx-color: #fac364;
+}
+/*-----------------------------------------*/
+/*CalendarButton color*/
+.date-picker{
+  -fx-color: #fac364;
+}
+/*Mouse hover button*/
+.date-picker .arrow-button:hover {
+  -fx-background-color: #e0af5a;
+}
+/*TextField*/
+.date-picker .text-field {
+  -fx-control-inner-background: #accbec;
+}
+/*Calendar color*/
+.date-picker-popup .month-year-pane {
+  -fx-background-color: #fac364;
+}
+/*Calendar mouse hover cell*/
+.date-picker .cell:hover {
+  -fx-background-color: #fcca74;
+}
+/*Selected cell*/
+.date-picker .cell:focused {
+  -fx-background-color: #ff7d32;
+}
+/*-----------------------------------------*/
+.toolbar-background{
+  -fx-background-color: #ff7d32;
+}
+/*-----------------------------------------*/
+.table-column-cell{
+  -fx-background-color:#accbec;
+  -fx-border-color:#000000;
+}
+.table-view .column-header{
+  -fx-background-color: #125fb3;
+  -fx-text-background-color: #ffffff;
+}
+/*-----------------------------------------*/
+.message-button-background{
+  -fx-background-color: #125fb3;
+  -fx-text-fill: #ffffff;
+}
+/*-----------------------------------------*/
+.radio-button:selected .dot{
+  -fx-background-color: #fac364;
+}
+/*-----------------------------------------*/
+.anchor-pane{
+  -fx-background-color: #9ac3df;
+}
